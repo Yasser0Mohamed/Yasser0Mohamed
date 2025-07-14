@@ -27,7 +27,7 @@
 </p>
 
 - *Programming*: C (basic), Ladder Logic, G-code  ,SFC
-- *Design Tools*: AutoCAD, CADe, Eplan ,
+- *Design Tools*: AutoCAD, CADe,EKTS, Eplan , TIA Portal V16 ,SIMATIC Manager,EcoStruxure Machine Expert ,LogixPro
 - *Automation*: PLC , HMI , VFD, Sensors  
 - *Others*: Troubleshooting, Team Leadership, Technical Documentation
 
