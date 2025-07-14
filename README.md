@@ -37,8 +37,7 @@
 
 | Project Name | Description | Tools Used |
 |-------------|-------------|-------------|
-| 🎓 *Graduation Project:-Intelligent Monitoring and Control of Automatic Filling System using QR gate and 
-gantry arm robot for checking and sorting* | Automated filling system with QR detection and robotic arm | PLC, HMI, Servo, QR Reader, Arduino |
+| 🎓 *Graduation Project:-Intelligent Monitoring and Control of Automatic Filling System* | Automated filling system with QR detection and robotic arm | PLC, HMI, Servo, QR Reader, Arduino |
 | 🎮 *Educational Kids Toy Project* | Arduino-based interactive educational game | Arduino, Sensors, LED Matrix |
 | 🏠 *Physical Home Automation Interface* | Home automation control via sensors and Bluetooth | Arduino, HC-05, LCD |
 
