@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Yasser Ghoniem 👋</h1>
 
-<!--
-**Yasser0Mohamed/Yasser0Mohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Welcome gif" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  💡 Mechatronics Engineer | ⚙ Automation & Industrial Systems Enthusiast | 🇪🇬 Based in Qalyubia, Egypt
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Fresh graduate from *Egyptian Academy for Engineering and Advanced Technology, class of **2025, majoring in **Mechatronics*.
+- 🤖 Passionate about *industrial automation, **PLC & HMI programming, and **smart systems*.
+- 🛠 Experienced in *Arduino, **SCADA, **servo/inverter systems, and **control design*.
+- 🌍 I dream of building my own automation company and working in *Germany* someday.
+- 🚀 Eager to learn new technologies like *KNX, **BMS*, and contribute to real-world industrial solutions.
+
+---
+
+### 🧠 Technical Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,python,c,git,github,vscode,autocad" />
+</p>
+
+- *Programming*: C (basic), Ladder Logic, G-code  
+- *Design Tools*: AutoCAD, CADe, Eplan  
+- *Automation*: PLC (Wecon), HMI (Veichi), SCADA, VFD, Sensors  
+- *Others*: Troubleshooting, Team Leadership, Technical Documentation
+
+---
+
+### 🛠 Projects
+
+| Project Name | Description | Tools Used |
+|-------------|-------------|-------------|
+| 🎓 *Graduation Project* | Automated filling system with QR detection and robotic arm | PLC, HMI, Servo, QR Reader, Arduino |
+| 🎮 *Edu Game for Kids* | Arduino-based interactive educational game | Arduino, Sensors, LED Matrix |
+| 🏠 *Smart Home Panel* | Home automation control via sensors and Bluetooth | Arduino, HC-05, LCD |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yasser0mohamed&show_icons=true&theme=radical" alt="Yasser's GitHub Stats" />
+</p>
+
+---
+
+### 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:yasserbakr605@gmail.com">📧 Email</a> • 
+  <a href="http://linkedin.com/in/yasser0mohamed">🔗 LinkedIn</a> • 
+  <a href="https://github.com/yasser0mohamed">💻 GitHub</a>
+</p>
+
+---
+
+<p align="center">"Keep Learning. Keep Building. Stay Curious." 🔧</p>
