@@ -5,16 +5,16 @@
 </p>
 
 <p align="center">
-  💡 Mechatronics Engineer | ⚙ Automation & Industrial Systems Enthusiast | 🇪🇬 Based in Qalyubia, Egypt
+  Fresh Graduate Mechatronics Engineer | ⚙ Industrial Automation | Smart Manufacturing
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Fresh graduate from *Egyptian Academy for Engineering and Advanced Technology, class of **2025, majoring in **Mechatronics*.
-- 🤖 Passionate about *industrial automation, **PLC & HMI programming, and **smart systems*.
-- 🛠 Experienced in *Arduino, **SCADA, **servo/inverter systems, and **control design*.
+- 🎓 Fresh graduate from Egyptian Academy for Engineering and Advanced Technology, class of 2025, majoring in *Mechatronics*
+- 🤖 Passionate about *industrial automation*, *PLC & HMI *programming, and *smart systems*.
+- 🛠 Experienced in *Classic control, PLC, Motor Driver , and *control design*.
 - 🌍 I dream of building my own automation company and working in *Germany* someday.
 - 🚀 Eager to learn new technologies like *KNX, **BMS*, and contribute to real-world industrial solutions.
 
@@ -26,9 +26,9 @@
   <img src="https://skillicons.dev/icons?i=arduino,python,c,git,github,vscode,autocad" />
 </p>
 
-- *Programming*: C (basic), Ladder Logic, G-code  
-- *Design Tools*: AutoCAD, CADe, Eplan  
-- *Automation*: PLC (Wecon), HMI (Veichi), SCADA, VFD, Sensors  
+- *Programming*: C (basic), Ladder Logic, G-code  ,SFC
+- *Design Tools*: AutoCAD, CADe, Eplan ,
+- *Automation*: PLC , HMI , VFD, Sensors  
 - *Others*: Troubleshooting, Team Leadership, Technical Documentation
 
 ---
@@ -37,9 +37,10 @@
 
 | Project Name | Description | Tools Used |
 |-------------|-------------|-------------|
-| 🎓 *Graduation Project* | Automated filling system with QR detection and robotic arm | PLC, HMI, Servo, QR Reader, Arduino |
-| 🎮 *Edu Game for Kids* | Arduino-based interactive educational game | Arduino, Sensors, LED Matrix |
-| 🏠 *Smart Home Panel* | Home automation control via sensors and Bluetooth | Arduino, HC-05, LCD |
+| 🎓 *Graduation Project:-Intelligent Monitoring and Control of Automatic Filling System using QR gate and 
+gantry arm robot for checking and sorting* | Automated filling system with QR detection and robotic arm | PLC, HMI, Servo, QR Reader, Arduino |
+| 🎮 *Educational Kids Toy Project* | Arduino-based interactive educational game | Arduino, Sensors, LED Matrix |
+| 🏠 *Physical Home Automation Interface* | Home automation control via sensors and Bluetooth | Arduino, HC-05, LCD |
 
 ---
 
