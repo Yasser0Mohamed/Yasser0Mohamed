@@ -13,10 +13,10 @@
 ### 👨‍💻 About Me
 
 - 🎓 Fresh graduate from Egyptian Academy for Engineering and Advanced Technology, class of 2025, majoring in *Mechatronics*
-- 🤖 Passionate about *industrial automation*, *PLC & HMI *programming, and *smart systems*.
-- 🛠 Experienced in *Classic control, PLC, Motor Driver , and *control design*.
+- 🤖 Passionate about *industrial automation*, *PLC* & *HMI* programming, and *smart systems*.
+- 🛠 Experienced in *Classic control*, *PLC*, *Motor Driver* , and *control design*.
 - 🌍 I dream of building my own automation company and working in *Germany* someday.
-- 🚀 Eager to learn new technologies like *KNX, **BMS*, and contribute to real-world industrial solutions.
+- 🚀 Eager to learn new technologies like *KNX*, *BMS*, and contribute to real-world industrial solutions.
 
 ---
 
